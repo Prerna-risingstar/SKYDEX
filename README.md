@@ -1,3 +1,6 @@
+LIVE LINK - https://skydex-mu.vercel.app/
+
+
 # Real-time Airfare Price Index for India (APIx)
 
 APIx is an automated, high-frequency price observation and statistical indexing platform designed to monitor, clean, and compute airfare price indices across representative domestic flight routes in India.
